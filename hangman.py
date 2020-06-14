@@ -64,9 +64,9 @@ def create_game():
 
 def next_step(result):
     if result == Result.WIN:
-        print("You win")
+        print("Вы победили!")
     elif result == Result.FAIL:
-        print("You lost")
+        print("Вы проиграли!")
     else:
         time.sleep(0.1)
         return True
