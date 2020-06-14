@@ -1,3 +1,9 @@
+[![Travis][build-badge]][build]
+
+[build-badge]: https://img.shields.io/travis/MikhailGold/TaskE1_12/master.png?style=flat-square
+
+[build]: https://travis-ci.org/MikhailGold/TaskE1_12
+
 Задание TASK E1.12
 
 Мы будем реализовывать игру в виселицу. 
